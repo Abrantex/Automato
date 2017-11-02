@@ -8,6 +8,7 @@ Se primeira vez:
 
 
 Para modificar:
+
 	$ cd ~/catkin_ws/src/Automato
 	$ git status
 	$ git add <arquivos>
